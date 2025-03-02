@@ -37,7 +37,7 @@ case $choice in
     2)
         # Windows Server 2019
         img_file="windows2019.img"
-        iso_link="https://go.microsoft.com/fwlink/p/?LinkID=2195167&clcid=0x409&culture=en-us&country=US"
+        iso_link="https://acbox.app/f/0vYRiM/windows2019.iso"
         iso_file="windows2019.iso"
         ;;
     3)
